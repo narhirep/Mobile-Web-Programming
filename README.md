@@ -1,3 +1,4 @@
 # Mobile-Web-Programming
 
-# Name: Piyush Kiran Narhire
+Studen Name: Piyush Kiran Narhire
+Instructor Name: Vijaya Yeruva
